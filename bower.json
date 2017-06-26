@@ -1,0 +1,21 @@
+{
+  "name": "node-account",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "TadBO <986520756@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
